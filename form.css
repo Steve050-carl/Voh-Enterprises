@@ -1,0 +1,91 @@
+body{
+    background: linear-gradient(45deg,
+    #ff0000,
+    #ff7300,
+    #ffff00,
+    #48ff00,
+    #00ffd5,
+    #0028ff,
+    #7a00ff,
+    #ff00c8,
+    #ff0008);
+    
+    
+}
+p{
+    text-align: center;
+    
+    
+
+}
+h1{
+    color: blueviolet;
+    background-color: whitesmoke;
+    text-align: center;
+    
+    font-family: 'Times New Roman';
+    
+}
+    
+    
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: right;
+    
+}
+nav ul li {
+    display: inline;
+    margin: 0 5px;
+
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+    background-color: #ff0000;
+}
+section{
+    text-align: center;
+    
+}
+label:hover{
+    text-decoration: wavy;
+    cursor: move;
+}
+input:hover{
+    border-color: blue;
+    border-style: groove;
+    border-radius: 10px;  
+    
+}
+button:hover{
+    border-radius: 10px;
+    border-color: #00c300;
+    fill: lawngreen;
+}
+@keyframes rotate{
+    from { 
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+h1{
+    border-radius: 50%;
+    animation-name:rotate;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+
+
+
+
+

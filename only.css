@@ -1,0 +1,54 @@
+nav{
+    display: inline;
+    grid: 20px;
+    list-style-type: none;
+}
+body{
+    background: linear-gradient(45deg,
+    #ff0000,
+    #ff7300,
+    #ffff00,
+    #48ff00,
+    #00ffd5,
+    #0028ff,
+    #7a00ff,
+    #ff00c8,
+    #ff0008);   
+    padding: 20px 20px 20px 20px;
+}
+nav{
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+    list-style-type: none;
+ 
+}
+nav ul li a:hover{
+    text-decoration: navy;
+    border-radius: 10px;
+    color: rebeccapurple;    
+}
+p{
+    text-align: center;
+    position: sticky;   
+}
+button:hover{
+    border-radius: 10px;
+    border-color: green;
+    text-transform: uppercase;
+}
+
+
+
+
