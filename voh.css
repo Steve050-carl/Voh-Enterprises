@@ -14,7 +14,7 @@ body{
 nav ul {
     list-style-type: none;
     padding: 0;
-    text-align: right;
+    text-align: center;
     font-weight: bolder;
 }
 nav ul li {
