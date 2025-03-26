@@ -70,6 +70,7 @@ img{
 #products{
     background-color: aquamarine;
     text-align: left;
+    border-radius:50%;
 }
 #services{
     background-color: bisque;
