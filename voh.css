@@ -49,14 +49,14 @@ nav ul li a:active {
     animation-iteration-count: infinite;
 }
 img{
-    width: 350px;
-    height: 350px;
+    width: 100%;
+    height: auto;
     border-radius: 10px;
     align-items: center;
 }
 .cof{
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 .items{
     list-style-type: none;
