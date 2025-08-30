@@ -3,14 +3,8 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://steve050-carl.github.io/Voh-Enterprises/index.html</loc>
+    <loc>https://steve050-carl.github.io/Voh-Enterprises/</loc>
     <priority>1.00</priority>
-  </url>
-
-  <!-- Example extra page (replace with your real page URLs) -->
-  <url>
-    <loc>https://voh-enterprise.lovable.app/</loc>
-    <priority>0.80</priority>
   </url>
 
 </urlset>
