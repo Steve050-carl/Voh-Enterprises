@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
   <url>
-    <loc>https://https://steve050-carl.github.io/Voh-Enterprises/</loc>
+    <loc>https://steve050-carl.github.io/Voh-Enterprises/</loc>
     <priority>1.00</priority>
   </url>
 
+  <!-- Example extra page (replace with your real page URLs) -->
   <url>
-    <loc>https://https://steve050-carl.github.io/Voh-Enterprises/https://voh-enterprise.lovable.app/</loc>
+    <loc>https://voh-enterprise.lovable.app/</loc>
     <priority>0.80</priority>
   </url>
+
 </urlset>
