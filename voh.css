@@ -98,7 +98,7 @@ footer{
     text-align: center;
     font-weight: bolder;
     font-size: large;
-}
+}/*
 @keyframes bounce{
     0%, 20%, 40%, 60%, 80%, 100%{
         transform: translateY(0);   
@@ -120,4 +120,4 @@ footer{
     animation-duration: 2;
     animation-iteration-count: infinite;
     display:flexbox;
-}
+}*/
