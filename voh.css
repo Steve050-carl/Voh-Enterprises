@@ -30,6 +30,7 @@ nav ul li a:active {
     text-decoration: underline;
     background-color: #00ff00;
 }
+/*
 @keyframes rotate{
     from { 
         transform: rotate(0deg);
@@ -47,7 +48,7 @@ nav ul li a:active {
     animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
-}
+}*/
 img{
     width: 100%;
     height: auto;
