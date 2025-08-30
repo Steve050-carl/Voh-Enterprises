@@ -30,8 +30,6 @@ nav ul li a:active {
     text-decoration: underline;
     background-color: #00ff00;
 }
-
-
 @keyframes rotate{
     from { 
         transform: rotate(0deg);
